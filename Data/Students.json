@@ -1,0 +1,23 @@
+[
+  {
+    "username": "rajpriya_rj",
+    "name": "Rajpriya",
+    "age": 15,
+    "sex": "female",
+    "stream": "cs"
+  },
+  {
+    "username": "raj_rj",
+    "name": "Raj",
+    "age": 16,
+    "sex": "male",
+    "stream": "it"
+  },
+  {
+    "username": "raj123_rj",
+    "name": "RajpriyaCH",
+    "age": 15,
+    "sex": "female",
+    "stream": "cs"
+  }
+]
