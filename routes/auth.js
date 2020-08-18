@@ -5,7 +5,7 @@ const fs = require('fs')
 
 var path='Data/Students.json'
 
-const myKey='YehMeriKeyHai'
+const myKey='MyKey'
 
 router.post('/signup', (req, res)=>{
     var students = JSON.parse(fs.readFileSync(path));
