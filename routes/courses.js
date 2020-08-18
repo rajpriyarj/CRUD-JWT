@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken')
 
 var path='Data/Courses.json'
 
-const myKey='YehMeriKeyHai'
+const myKey='MyKey'
 
 const authenticate = (req, res, next)=>{
     var token = req.headers.authorization
