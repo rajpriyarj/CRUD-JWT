@@ -5,7 +5,7 @@ const fs = require('fs')
 
 var path='Data/Students.json'
 
-const myKey='YehMeriKeyHai'
+const myKey='MyKey'
 
 const authenticate = (req, res, next)=>{
     var token = req.headers.authorization
